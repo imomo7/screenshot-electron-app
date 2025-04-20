@@ -1,0 +1,1 @@
+# screenshot-electron-app
